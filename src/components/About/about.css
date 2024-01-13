@@ -1,0 +1,42 @@
+.about{
+  width: 100%;
+  height: 90vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+
+}
+.about__count{
+  padding-top: 200px;
+}
+
+
+.headline{
+  color: #fff;
+  padding-top: 200px;
+  font-size: 40px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.headline h4{
+  font-size: 35px;
+  font-style: italic;
+}
+.headline h3 span{
+  color: #0306ad;
+}
+
+
+
+
+
+
+.parallax_first{
+  background: url('./../../img/parallax_one.webp');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 1100px; 
+}

@@ -1,0 +1,197 @@
+.map{
+    width: 100%;
+    height: 360vh;
+}
+
+
+.lifts{
+    text-align: center;
+    padding-top: 100px;
+} 
+.lifts img{
+    width: 100%;
+    height: 700px;
+    margin-bottom: 50px;
+}
+
+.headline h3{
+    font-weight: 200;
+}
+
+.lifts_main{
+    text-align: center;
+}
+/* SLIDE 1 */
+.slide__one img{
+    width: 90%;
+    height: 90%;
+}
+.slide__one{
+    text-align: center;
+}
+
+
+.slide__one h3{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    width: 20%;
+}
+.slide__one h3 span{
+    color: orange;
+}
+
+/* SLIDE 2 */
+
+.slide__two h3{
+    font-size: 30px;
+    font-style: italic;
+    width: 20%;
+    font-weight: lighter;
+}
+.slide__two h3 span{
+    color: rgb(187, 170, 139);
+}
+
+
+
+/* SLIDE 3 */
+
+.slide__tree h3{
+    font-size: 30px;
+    font-style: italic;
+    width: 20%;
+    font-weight: lighter;
+}
+.slide__tree h3 span{
+    color: rgb(40, 147, 59);
+}
+
+
+/* SLIDE 4 */
+.slide__four h3{
+    font-size: 30px;
+    font-style: italic;
+    width: 20%;
+    font-weight: lighter;
+}
+.slide__four h3 span{
+    color: #2b74fc;
+}
+
+
+/* SLIDE 5 */
+.slide__five h3{
+    font-size: 30px;
+    font-style: italic;
+    width: 20%;
+    font-weight: lighter;
+}
+.slide__five h3 span{
+    color: #fff15b;
+}
+
+/* SLIDE 6 */
+.slide__six h3{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    width: 20%;
+    text-align: center;
+}
+.slide__six h3 span{
+    color: #ff5bf1;
+}
+
+
+/* SWIPER 1 */
+.swiper {
+    width: 95%;
+    height: 600px;
+    margin-top: 50px;
+  }
+  
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+  
+
+/* RENT */
+
+.lease__main{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.lease__main h2{
+    font-size: 40px;
+    color: #2b74fc;
+    font-style: italic;
+    font-weight: lighter;
+}
+.lease__main h4{
+    width: 60%;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: lighter;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* FOOD */
+
+.food_main{
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.food_main h2{
+    font-size: 40px;
+    color: #2b74fc;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.food_main h4{
+    width: 60%;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: lighter;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.parallax{
+    background: url('./../../img/parallax_two.jpg');
+    background-attachment: fixed;
+    background-position-y: bottom;
+    background-size: cover;
+    height: 800px;
+}
+
+.parallax_four{
+    background: url('./../../img/parallax_four.jpg');
+    background-attachment: fixed;
+    background-position-y: top;
+    background-size: cover;
+    height: 800px;
+}
+
+.parallax_five{
+    background: url('./../../img/parallax_five.jpg');
+    background-attachment: fixed;
+    background-position-y: center;
+    background-size: cover;
+    height: 800px;
+}

@@ -1,0 +1,58 @@
+.inform{
+    text-align: center;
+    padding-top: 50px;
+    width: 100%;
+    height: auto;
+    box-shadow: 0px -100px 50px 0px #fff; 
+}
+.inform__conut{
+    padding-top: 50px;
+    color: #3e3f4f;
+    width: 100%;
+    height: auto;
+}
+.inform h2{
+    color: #699ff5;
+    font-size: 60px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.block{
+    width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+    margin-top: 90px;
+}
+.block img{
+    width: 60%;
+    height: 500px;
+    box-shadow: 5px 5px 30px 5px #000;
+    border-radius: 12px;
+}
+.block p{
+    font-size: 25px;
+    width: 100%;
+    color: #b1b1b1;
+    font-weight: lighter;
+    text-align: left;
+    font-style: italic;
+}
+
+.parallax_two{
+    background: url('./../../img/parallax_one.webp');
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+    height: 600px;
+}
+
+.parallax_three{
+    background: url('./../../img/parallax_tree.jpg');
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+    height: 600px;
+}

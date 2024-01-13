@@ -1,0 +1,82 @@
+.cost{
+    height: 170vh;
+    width: 100%;
+}
+.cost__headline{
+    text-align: center;
+    color: #2b74fc;
+    font-size: 60px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+table {
+    width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    font-style: italic;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  th span{
+    color: rgb(202, 38, 38);
+  }
+
+
+  .table__two {
+    width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    justify-content: space-between;
+    font-style: italic;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+  th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+  }
+  td{
+    font-size: 18px;
+  }
+  th {
+    background-color: #9dd3f3;
+    color: #fff;
+    font-size: 20px;
+    text-align: center
+  }
+  .th-top{
+    border-top-left-radius: 12px;
+    text-align: center
+  }
+  .th-top-right{
+    border-top-right-radius: 12px;
+  }
+  tr:hover {
+    background-color: #f5f5f5;
+  }
+
+
+  .parallax__six{
+    background: url('./../../img/parallax_six.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+
+.bottom_h3{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}

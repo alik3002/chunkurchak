@@ -1,0 +1,40 @@
+.header{
+    width: 100%;
+    position: absolute;
+    z-index: 999;
+}
+.header__row{
+    display: flex;
+    column-gap: 30px;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__logo img{
+    width: 70px;
+    height: 70px;
+}
+.header__nav{
+    display: flex;
+    column-gap: 30px;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+}
+.header__list{
+    font-family: 'Nunito', sans-serif;
+    list-style: none;
+    font-size: 20px;
+    font-weight: 900;
+    color: #000000;
+    font-style: italic;
+    padding: 10px;
+    height: 25px;
+}
+.header__list a{
+    color: #b4b4b4;
+    text-decoration: none;
+}
+.header__list:hover{
+    transition: 0.5s;
+    background-color: #7f92ff;
+    
+}
