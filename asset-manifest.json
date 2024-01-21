@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chunkurchak/static/css/main.e3e588d2.css",
-    "main.js": "/chunkurchak/static/js/main.9dd3a0ba.js",
+    "main.css": "/chunkurchak/static/css/main.48ec8ced.css",
+    "main.js": "/chunkurchak/static/js/main.d7dcf59c.js",
     "static/media/lifts_chunkurhak.jpg": "/chunkurchak/static/media/lifts_chunkurhak.bc227389d06d80f397bc.jpg",
     "static/media/parallax_two.jpg": "/chunkurchak/static/media/parallax_two.615220ffcbf0d79cff7f.jpg",
     "static/media/parallax_eight.jpg": "/chunkurchak/static/media/parallax_eight.59466d7c8939ed51587a.jpg",
@@ -51,11 +51,11 @@
     "static/media/Facebook_icon.svg.webp": "/chunkurchak/static/media/Facebook_icon.svg.e3707d9f3a1f779759ce.webp",
     "static/media/logo-chunkurchak2.png": "/chunkurchak/static/media/logo-chunkurchak2.9b40a99eb8bbf9ba68ec.png",
     "index.html": "/chunkurchak/index.html",
-    "main.e3e588d2.css.map": "/chunkurchak/static/css/main.e3e588d2.css.map",
-    "main.9dd3a0ba.js.map": "/chunkurchak/static/js/main.9dd3a0ba.js.map"
+    "main.48ec8ced.css.map": "/chunkurchak/static/css/main.48ec8ced.css.map",
+    "main.d7dcf59c.js.map": "/chunkurchak/static/js/main.d7dcf59c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3e588d2.css",
-    "static/js/main.9dd3a0ba.js"
+    "static/css/main.48ec8ced.css",
+    "static/js/main.d7dcf59c.js"
   ]
 }
