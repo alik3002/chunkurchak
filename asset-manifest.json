@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chunkurchak/static/css/main.1792fce0.css",
+    "main.css": "/chunkurchak/static/css/main.4d500886.css",
     "main.js": "/chunkurchak/static/js/main.e976da1f.js",
     "static/media/lifts_chunkurhak.jpg": "/chunkurchak/static/media/lifts_chunkurhak.bc227389d06d80f397bc.jpg",
     "static/media/parallax_two.jpg": "/chunkurchak/static/media/parallax_two.615220ffcbf0d79cff7f.jpg",
@@ -50,11 +50,11 @@
     "static/media/Facebook_icon.svg.webp": "/chunkurchak/static/media/Facebook_icon.svg.e3707d9f3a1f779759ce.webp",
     "static/media/logo-chunkurchak2.png": "/chunkurchak/static/media/logo-chunkurchak2.9b40a99eb8bbf9ba68ec.png",
     "index.html": "/chunkurchak/index.html",
-    "main.1792fce0.css.map": "/chunkurchak/static/css/main.1792fce0.css.map",
+    "main.4d500886.css.map": "/chunkurchak/static/css/main.4d500886.css.map",
     "main.e976da1f.js.map": "/chunkurchak/static/js/main.e976da1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1792fce0.css",
+    "static/css/main.4d500886.css",
     "static/js/main.e976da1f.js"
   ]
 }
