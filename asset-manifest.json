@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chunkurchak/static/css/main.f2466adc.css",
-    "main.js": "/chunkurchak/static/js/main.d7dcf59c.js",
+    "main.css": "/chunkurchak/static/css/main.999aa149.css",
+    "main.js": "/chunkurchak/static/js/main.0fcf9ab1.js",
     "static/media/lifts_chunkurhak.jpg": "/chunkurchak/static/media/lifts_chunkurhak.bc227389d06d80f397bc.jpg",
     "static/media/parallax_two.jpg": "/chunkurchak/static/media/parallax_two.615220ffcbf0d79cff7f.jpg",
     "static/media/parallax_eight.jpg": "/chunkurchak/static/media/parallax_eight.59466d7c8939ed51587a.jpg",
@@ -47,15 +47,14 @@
     "static/media/food_13.jpg": "/chunkurchak/static/media/food_13.dbf58c5fd301ac91b100.jpg",
     "static/media/food_16.jpg": "/chunkurchak/static/media/food_16.7cd8707b52bb6e3a65e9.jpg",
     "static/media/food_6.jpg": "/chunkurchak/static/media/food_6.32c016910033ccf32c46.jpg",
-    "static/media/contact.png": "/chunkurchak/static/media/contact.58ebd167a92c8199e9c1.png",
     "static/media/Facebook_icon.svg.webp": "/chunkurchak/static/media/Facebook_icon.svg.e3707d9f3a1f779759ce.webp",
     "static/media/logo-chunkurchak2.png": "/chunkurchak/static/media/logo-chunkurchak2.9b40a99eb8bbf9ba68ec.png",
     "index.html": "/chunkurchak/index.html",
-    "main.f2466adc.css.map": "/chunkurchak/static/css/main.f2466adc.css.map",
-    "main.d7dcf59c.js.map": "/chunkurchak/static/js/main.d7dcf59c.js.map"
+    "main.999aa149.css.map": "/chunkurchak/static/css/main.999aa149.css.map",
+    "main.0fcf9ab1.js.map": "/chunkurchak/static/js/main.0fcf9ab1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2466adc.css",
-    "static/js/main.d7dcf59c.js"
+    "static/css/main.999aa149.css",
+    "static/js/main.0fcf9ab1.js"
   ]
 }
